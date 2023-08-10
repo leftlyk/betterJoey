@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<svg width="700" height="480.00000000000006" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <title>Octo-smile</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m39999999244763140,409.43l0,0c0,-62.41 50.59,-113 113,-113c62.41,0 113,50.59 113,113l-56.5,0c0,-31.2 -25.3,-56.5 -56.5,-56.5c-31.2,0 -56.5,25.3 -56.5,56.5z" fill="#000000" fill-opacity="0" id="svg_20" stroke="#ff0000" transform="rotate(-180 115.781 352.927)"/>
+  <g id="svg_25" transform="matrix(1 0 0 1 0 0)">
+   <ellipse cx="2941" cy="155.5" fill="#000000" id="svg_1" rx="75" ry="75" stroke="#000000" stroke-width="1https://svgedit.netlify.app/editor/index.htmlhttps://svgedit.netlify.app/editor/index.html"/>
+   <ellipse cx="2972.2" cy="125.5" fill="#ffffff" id="svg_7" rx="10.8" ry="10.8" stroke="#ffffff"/>
+  </g>
+  <path d="m248.64,417.43l0,0c0,-59.96 45.38,-108.57 101.37,-108.57c55.98,0 101.37,48.61 101.37,108.57l-50.68,0c0,-29.98 -22.69,-54.29 -50.68,-54.29c-27.99,0 -50.68,24.3 -50.68,54.29z" fill="#ffffff" id="svg_34" stroke="#ffffff"/>
+  <g id="svg_41">
+   <ellipse cx="145.57" cy="192" fill="#ffffff" id="svg_27" rx="75" ry="75" stroke="#ffffff" stroke-width="1https://svgedit.netlify.app/editor/index.htmlhttps://svgedit.netlify.app/editor/index.html"/>
+   <ellipse cx="176.77" cy="162" fill="#ffffff" id="svg_28" rx="10.8" ry="10.8" stroke="#ffffff"/>
+   <rect fill="#ffffff" height="78.57" id="svg_39" stroke="#ffffff" width="150" x="70.57" y="110"/>
+  </g>
+  <g id="svg_42">
+   <g id="svg_29">
+    <ellipse cx="554.29" cy="192" fill="#ffffff" id="svg_30" rx="75" ry="75" stroke="#ffffff" stroke-width="1https://svgedit.netlify.app/editor/index.htmlhttps://svgedit.netlify.app/editor/index.html"/>
+    <ellipse cx="585.49" cy="162" fill="#ffffff" id="svg_31" rx="10.8" ry="10.8" stroke="#ffffff"/>
+   </g>
+   <rect fill="#ffffff" height="78.57" id="svg_40" stroke="#ffffff" width="150" x="479.29" y="110"/>
+  </g>
+ </g>
+</svg>

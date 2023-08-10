@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joey's Message</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body id="msg-body">
+    <!--
+    <button><a href="testhome.html">Back Home</a></button>
+    -->
+    <div id="octo-container">
+
+        <form id="form", method="POST">
+            <label for="fname">How am I feeling? </label>
+            <textarea id="msg" name="msg" rows="4" cols="25" placeholder="Enter text here..."></textarea><br>
+            <label for="lname">From: </label><br>
+            <input type="text" name="frm" id="frm" placeholder="Name..."><br>
+            <button type="submit" id="submit" value="submit">Submit</button>
+          </form>
+
+    </div>
+
+    
+    
+    <!--<script src="index copy.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joey's Mood</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <!--
+    <button><a href="testhome.html">Back Home</a></button>
+    -->
+    <div id="octo-container">
+
+        <div id="left-box"> 
+            <button type="button" id="button1" onclick="window.location.href='/happy'">
+                <img class="svg" src="{{ url_for('static', filename='octo-smile.svg') }}"/>
+            </button>
+        </div>
+
+        <div id="right-box">
+            <button type="button" id="button2" onclick="window.location.href='/angry'">
+                <img class="svg" src="{{ url_for('static', filename='octo-frown.svg') }}"/>
+            </button>
+        </div>
+
+    </div>
+    
+    <!---<script src="index copy.js"></script> -->
+</body>
+</html>
