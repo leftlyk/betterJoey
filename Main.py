@@ -1,12 +1,5 @@
-from sqlite3.dbapi2 import Date
 from flask import Flask, render_template, request
-from random import choice
-import datetime
-from datetime import timedelta
-from datetime import date
-from datetime import datetime
 import sqlite3;
-import os;
 
 web_site = Flask(__name__)
 
